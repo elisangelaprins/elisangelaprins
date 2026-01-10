@@ -36,8 +36,12 @@ Sou estudante de **Engenharia de Software** (2º Período) na **Universidade Pos
 
 ### GitHub Stats: 📈
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisangelaprins&theme=transparent&bg_color=000&border_color=6A0888&show_icons=true&icon_color=CC2EFA&title_color=6A0888&text_color=FFF&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisangelaprins&bg_color=000&border_color=6A0888&title_color=6A0888&text_color=FFF&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elisangelaprins&theme=dark&background=000000&border=6A0888&stroke=6A0888&ring=CC2EFA&fire=CC2EFA&currStreakNum=FFF" />
+</p>
+
+### Top Linguagens: 📊
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangelaprins&layout=compact&theme=dark&bg_color=00000000&border_color=6A0888&title_color=6A0888&text_color=FFF&hide_border=false" />
 </p>
 
 ---
