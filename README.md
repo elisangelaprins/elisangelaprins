@@ -1,4 +1,4 @@
-# Olá, eu sou a Elisângela Prins! 👋
+# Olá, eu sou a Elisangela Prins! 👋 👩🏻‍💻
 
 ### De Empreendedora a Engenheira de Software em formação 🚀
 
@@ -6,29 +6,62 @@ Sou estudante de **Engenharia de Software** (2º Período) na **Universidade Pos
 
 ---
 
-### Conecte-se comigo
+## Tecnologias: 🖥️
 
+### Linguagens
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<br clear="left"/>
+
+### Banco de Dados: 🗄️
+<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br clear="left"/>
+
+### Ferramentas e Frameworks:🔧
+<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Trello" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
+
+<br clear="left"/>
+
+---
+
+### GitHub Stats: 📈
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisangelaprins&theme=transparent&bg_color=000&border_color=6A0888&show_icons=true&icon_color=CC2EFA&title_color=6A0888&text_color=FFF&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisangelaprins&bg_color=000&border_color=6A0888&title_color=6A0888&text_color=FFF&layout=compact" />
+</p>
+
+---
+
+### Conecte-se comigo 📫:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisangela.prinz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elisangelaprins)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisangela-prins-a33186337/)
 
- ## Estudando 📚
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DCwhite)](https://docs.github.com/)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+---
+<img src="computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
+
+<br><br>
+
+<p align="center">
+  <i>
+    "Tecnologia é o meio,<br>
+    mas o valor real está em<br>
+    como resolvemos os<br>
+    problemas das pessoas."
+  </i>
+</p>
+
+<br clear="right">
+<p align="center"> --- Obrigada pela visita!! ✌️😎 --- </p>
 
 
-## Ferramentas ⚙️
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-## GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisangelaprins&theme=transparent&bg_color=000&border_color=6A0888&show_icons=true&icon_color=CC2EFA&title_color=6A0888&text_color=FFF&hide_title=true)
-
-##
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisangelaprins&bg_color=000&border_color=6A0888&title_color=6A0888&text_color=FFF)
 
