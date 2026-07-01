@@ -2,7 +2,7 @@
 
 ### De Empreendedora a Engenheira de Software em formação 🚀
 
-Sou estudante de **Engenharia de Software** (2º Período) na **Universidade Positivo**, em Curitiba. A minha trajetória é marcada pelo empreendedorismo, o que me deu uma visão analítica e focada em resultados que hoje aplico na resolução de problemas através do código.
+Sou estudante de **Engenharia de Software** na **Universidade Positivo**, em Curitiba. A minha trajetória é marcada pelo empreendedorismo, o que me deu uma visão analítica e focada em resultados que hoje aplico na resolução de problemas através do código.
 
 ---
 
