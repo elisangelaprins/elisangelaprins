@@ -1,55 +1,80 @@
-# Olá, eu sou a Elisangela Prins! 👋 👩🏻‍💻
+# Elisangela Prins 💻
 
-### De Empreendedora a Engenheira de Software em formação 🚀
+➡️ Me chamo Elisangela, sou estudante de Engenharia de Software e Estagiária Full Stack na Câmara Municipal de Curitiba, com foco direcionado ao desenvolvimento Backend.
 
-Sou estudante de **Engenharia de Software** na **Universidade Positivo**, em Curitiba. A minha trajetória é marcada pelo empreendedorismo, o que me deu uma visão analítica e focada em resultados que hoje aplico na resolução de problemas através do código.
+➡️ Áreas de interesse: Desenvolvimento Backend (Node.js, Java e .NET).
 
----
-
-## Tecnologias: 🖥️
-
-### Linguagens
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<br clear="left"/>
-
-### Banco de Dados: 🗄️
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<br clear="left"/>
-
-### Ferramentas e Frameworks:🔧
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Trello" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
-
-<br clear="left"/>
+➡️ Metas: Me aprofundar em arquiteturas de APIs REST e iniciar estudos em Cloud (AWS).
 
 ---
 
-### GitHub Stats: 📈
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elisangelaprins&theme=dark&background=000000&border=6A0888&stroke=6A0888&ring=CC2EFA&fire=CC2EFA&currStreakNum=FFF" />
-</p>
+### Contatos
 
-### Top Linguagens: 📊
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangelaprins&layout=compact&theme=dark&bg_color=00000000&border_color=6A0888&title_color=6A0888&text_color=FFF&hide_border=false" />
-</p>
-
----
-
-### Conecte-se comigo 📫:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisangela.prinz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisangela-prins-a33186337/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisangela-prins)
 
 ---
+
+### Tecnologias 🛠️
+
+#### Backend:
+
+<p align="left">
+  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+  <img alt="Express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;&nbsp;
+  <img alt="Sequelize" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+</p>
+
+#### Frontend:
+
+<p align="left">
+  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img alt="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
+  <img alt="Vite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />&nbsp;&nbsp;
+  <img alt="Vercel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+</p>
+
+#### Banco de Dados (SQL & NoSQL):
+
+<p align="left">
+  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+</p>
+
+#### Ferramentas:
+
+<p align="left">
+  <img alt="npm" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="Postman" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;&nbsp;
+  <img alt="Prisma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;&nbsp;
+  <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elisangelaprins&show_icons=true&theme=dark&bg_color=000000&border_color=6A0888&title_color=6A0888&text_color=FFF" />
+</p>
+
+---
+
+### Top Linguagens
+<p align="left">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elisangelaprins&layout=compact&theme=dark&bg_color=000000&border_color=6A0888&title_color=6A0888&text_color=FFF" />
+</p>
+
+---
+
 <img src="computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
 
 <br><br>
@@ -65,6 +90,3 @@ Sou estudante de **Engenharia de Software** na **Universidade Positivo**, em Cur
 
 <br clear="right">
 <p align="center"> --- Obrigada pela visita!! ✌️😎 --- </p>
-
-
-
