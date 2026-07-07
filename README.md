@@ -1,4 +1,4 @@
-# Elisangela Prins 💻
+# Elisangela Prins 👩‍💻
 
 ➡️ Me chamo Elisangela, sou estudante de Engenharia de Software e Estagiária Full Stack na Câmara Municipal de Curitiba, com foco direcionado ao desenvolvimento Backend.
 
