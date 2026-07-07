@@ -34,7 +34,6 @@
 
 <p align="left">
   <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
   <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
   <img alt="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
   <img alt="Vite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />&nbsp;&nbsp;
