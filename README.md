@@ -2,7 +2,7 @@
 
 ➡️ Me chamo Elisangela, sou estudante de Engenharia de Software e Estagiária Full Stack na Câmara Municipal de Curitiba, com foco direcionado ao desenvolvimento Backend.
 
-➡️ Áreas de interesse: Desenvolvimento Backend (Node.js, Java e .NET).
+➡️ Áreas de interesse: Desenvolvimento Backend (Node.js e Java).
 
 ➡️ Metas: Me aprofundar em arquiteturas de APIs REST e iniciar estudos em Cloud (AWS).
 
