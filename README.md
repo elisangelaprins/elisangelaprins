@@ -21,13 +21,10 @@
 
 <p align="left">
   <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
   <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />&nbsp;&nbsp;
   <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-  <img alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
   <img alt="Express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;&nbsp;
-  <img alt="Sequelize" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
 </p>
 
 #### Frontend:
@@ -50,9 +47,9 @@
 #### Ferramentas:
 
 <p align="left">
-  <img alt="npm" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
   <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
   <img alt="Postman" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;&nbsp;
+  <img alt="Sequelize" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />&nbsp;&nbsp;
   <img alt="Prisma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;&nbsp;
   <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
